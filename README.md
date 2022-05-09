@@ -3,8 +3,7 @@ The Reproducability Challenge for COMP6248 module
 
 The orginal paper: https://openreview.net/forum?id=YicbFdNTTy
 
-The code implemented by the authors: https://github.com/
-google-research/vision_transformer
+The code implemented by the authors: https://github.com/google-research/vision_transformer
 
 
 Reference:
