@@ -9,5 +9,5 @@ The code implemented by the authors: https://github.com/google-research/vision_t
 Reference:
 
 [1] Alexey Dosovitskiy, Lucas Beyer, Alexander Kolesnikov, Dirk Weissenborn, Xiaohua Zhai, Thomas Unterthiner, Mostafa Dehghani, Matthias Minderer,
-Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby, AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE. In ICLR, 2015
+Georg Heigold, Sylvain Gelly, Jakob Uszkoreit, Neil Houlsby, AN IMAGE IS WORTH 16X16 WORDS:TRANSFORMERS FOR IMAGE RECOGNITION AT SCALE. In ICLR, 2021
 
