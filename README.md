@@ -5,6 +5,8 @@ The orginal paper: https://openreview.net/forum?id=YicbFdNTTy
 
 The code implemented by the authors: https://github.com/google-research/vision_transformer
 
+There is Vit.pkl file more than 100MB that cannot upload to github please find the file in google drive and place in to src\main\checkpoints\models\:
+https://drive.google.com/file/d/1V6hxNuJPu5yYTreBFAh4WCJj4OZEZGw1/view?usp=sharing
 
 Reference:
 
